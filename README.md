@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Tableau dashboard provides a comprehensive visual analysis of mobile phone sales across multiple Indian cities, segmented by brand, payment method, and customer feedback. It is designed to assist stakeholders in understanding key sales metrics and trends over time.
+This PowerBi dashboard provides a comprehensive visual analysis of mobile phone sales across multiple Indian cities, segmented by brand, payment method, and customer feedback. It is designed to assist stakeholders in understanding key sales metrics and trends over time.
 
 ![image](https://github.com/user-attachments/assets/2b207b3a-768c-4e58-8ac9-d24811c979cb)
 ![image](https://github.com/user-attachments/assets/25c5cefa-3965-4367-a16e-19a52a620456)

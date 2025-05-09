@@ -65,7 +65,7 @@ Includes major Indian cities like:
 ---
 
 ## 🛠️ Tools Used
-- **Tableau Desktop** for dashboard design and interactivity
+- **Power BI Desktop** for dashboard design and interactivity
 - **Microsoft Excel** for preprocessing the data
 - **OpenStreetMap & TomTom** for geospatial visualizations
 
